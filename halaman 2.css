@@ -1,0 +1,27 @@
+h1{
+    color: violet;
+    text-align: center;
+}
+
+body{
+    background-color: wheat;
+    text-align: justify;
+}
+
+th{
+    padding-left: 70px;
+    padding-right: 70px;
+    border: solid 1pt black;
+    background-color: teal;
+}
+
+td{
+    color: aliceblue;
+    border: solid 1pt black;
+}
+
+table{
+    background-color: sienna;
+    margin-left: auto;
+    margin-right: auto;
+}
